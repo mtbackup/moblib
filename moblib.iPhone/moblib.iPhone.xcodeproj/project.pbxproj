@@ -19,6 +19,13 @@
 		289233A70DB2D0840083E9F9 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A50DB2D0840083E9F9 /* MainView.m */; };
 		289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */; };
 		289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */; };
+		A91E0FDA1024FE490050CD59 /* MobLibUIApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */; };
+		A91E0FEA102501E00050CD59 /* MobLibFeedbackViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */; };
+		A91E0FEB102501E00050CD59 /* MobLibFeedbackViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A91E0FE9102501E00050CD59 /* MobLibFeedbackViewController.xib */; };
+		A91E101610250CD10050CD59 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A91E101510250CD10050CD59 /* QuartzCore.framework */; };
+		A91E10F610251BF60050CD59 /* richred1-tm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A91E10F510251BF60050CD59 /* richred1-tm.jpg */; };
+		A96FF9AF1025281D00E9206C /* FeedbackViewController.bg.png in Resources */ = {isa = PBXBuildFile; fileRef = A96FF9AE1025281D00E9206C /* FeedbackViewController.bg.png */; };
+		A96FF9B810252D8900E9206C /* MobLibFeedbackRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +49,16 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = moblib_iPhone_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* moblib_iPhone-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "moblib_iPhone-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobLibUIApplication.h; sourceTree = "<group>"; };
+		A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobLibUIApplication.m; sourceTree = "<group>"; };
+		A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobLibFeedbackViewController.h; sourceTree = "<group>"; };
+		A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobLibFeedbackViewController.m; sourceTree = "<group>"; };
+		A91E0FE9102501E00050CD59 /* MobLibFeedbackViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MobLibFeedbackViewController.xib; sourceTree = "<group>"; };
+		A91E101510250CD10050CD59 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		A91E10F510251BF60050CD59 /* richred1-tm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "richred1-tm.jpg"; sourceTree = "<group>"; };
+		A96FF9AE1025281D00E9206C /* FeedbackViewController.bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FeedbackViewController.bg.png; sourceTree = "<group>"; };
+		A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobLibFeedbackRequest.h; sourceTree = "<group>"; };
+		A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobLibFeedbackRequest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +69,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765590DF743DE002DB57D /* CoreGraphics.framework in Frameworks */,
+				A91E101610250CD10050CD59 /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,6 +119,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				A91E0F8A1024EE290050CD59 /* Moblib-iPhone */,
 				289233A00DB2D0730083E9F9 /* Main View */,
 				281C6CD70DB2D82200F60ACC /* Flipside View */,
 				080E96DDFE201D6D7F000001 /* Application Delegate */,
@@ -124,6 +143,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A91E10F510251BF60050CD59 /* richred1-tm.jpg */,
 				280E754A0DD40C5E005A515E /* FlipsideView.xib */,
 				280E754B0DD40C5E005A515E /* MainView.xib */,
 				280E754C0DD40C5E005A515E /* MainWindow.xib */,
@@ -135,11 +155,35 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A91E101510250CD10050CD59 /* QuartzCore.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765580DF743DE002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A91E0F8A1024EE290050CD59 /* Moblib-iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				A96FF9AD1025281D00E9206C /* img */,
+				A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */,
+				A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */,
+				A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */,
+				A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */,
+				A91E0FE9102501E00050CD59 /* MobLibFeedbackViewController.xib */,
+				A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */,
+				A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */,
+			);
+			path = "Moblib-iPhone";
+			sourceTree = "<group>";
+		};
+		A96FF9AD1025281D00E9206C /* img */ = {
+			isa = PBXGroup;
+			children = (
+				A96FF9AE1025281D00E9206C /* FeedbackViewController.bg.png */,
+			);
+			path = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -194,6 +238,9 @@
 				280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */,
 				280E754E0DD40C5E005A515E /* MainView.xib in Resources */,
 				280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */,
+				A91E0FEB102501E00050CD59 /* MobLibFeedbackViewController.xib in Resources */,
+				A91E10F610251BF60050CD59 /* richred1-tm.jpg in Resources */,
+				A96FF9AF1025281D00E9206C /* FeedbackViewController.bg.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,6 +257,9 @@
 				289233A70DB2D0840083E9F9 /* MainView.m in Sources */,
 				289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */,
 				289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */,
+				A91E0FDA1024FE490050CD59 /* MobLibUIApplication.m in Sources */,
+				A91E0FEA102501E00050CD59 /* MobLibFeedbackViewController.m in Sources */,
+				A96FF9B810252D8900E9206C /* MobLibFeedbackRequest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

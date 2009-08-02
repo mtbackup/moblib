@@ -6,9 +6,10 @@
 //  Copyright __MyCompanyName__ 2009. All rights reserved.
 //
 
+#import "MobLibUIApplication.h"
 @class MainViewController;
 
-@interface moblib_iPhoneAppDelegate : NSObject <UIApplicationDelegate> {
+@interface moblib_iPhoneAppDelegate : NSObject <UIApplicationDelegate, MobLibUIApplicationDelegate> {
     UIWindow *window;
     MainViewController *mainViewController;
 }

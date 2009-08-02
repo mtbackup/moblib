@@ -8,6 +8,8 @@
 
 #import "moblib_iPhoneAppDelegate.h"
 #import "MainViewController.h"
+//#import "MobLibViewController.h"
+#import "MobLibFeedbackViewController.h"
 
 @implementation moblib_iPhoneAppDelegate
 
@@ -17,7 +19,8 @@
 
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
-    
+//	[application setStatusBarHidden:YES];
+	
 	MainViewController *aController = [[MainViewController alloc] initWithNibName:@"MainView" bundle:nil];
 	self.mainViewController = aController;
 	[aController release];
@@ -25,6 +28,11 @@
     mainViewController.view.frame = [UIScreen mainScreen].applicationFrame;
 	[window addSubview:[mainViewController view]];
     [window makeKeyAndVisible];
+	
+}
+
+- (void)statusBarTouched{
+	[[MobLibFeedbackViewController sharedFeedbackController] present];
 }
 
 
