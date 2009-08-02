@@ -3,7 +3,7 @@
 //  moblib.iPhone
 //
 //  Created by Jesus Fernandez on 8/1/09.
-//  Copyright 2009 __MyCompanyName__. 
+//  Copyright 2009 Jesus Fernandez. 
 //	Permission is hereby granted, free of charge, to any person
 //	obtaining a copy of this software and associated documentation
 //	files (the "Software"), to deal in the Software without
@@ -33,10 +33,8 @@
 - (void)sendEvent:(UIEvent *)anEvent
 {
 #define GS_EVENT_TYPE_OFFSET 2
-#define GS_EVENT_X_OFFSET 6
-#define GS_EVENT_Y_OFFSET 7
 #define STATUS_BAR_TOUCH_DOWN 1015
-    
+	
     // Traverse from the UIEvent to the GSEvent to the type
     int *eventMemory = (int *)[anEvent performSelector:@selector(_gsEvent)];
     int eventType = eventMemory[GS_EVENT_TYPE_OFFSET];
@@ -44,18 +42,7 @@
     // Look for status bar touches by event type
     if (eventType == STATUS_BAR_TOUCH_DOWN)
     {
-        // The next 6 lines aren't essential but if you want to know where the
-		// touch coordinates live, here they are: 
-        int xMemory = eventMemory[GS_EVENT_X_OFFSET];
-        int yMemory = eventMemory[GS_EVENT_Y_OFFSET];
-		
-        typedef union {int intValue; float floatValue;} Int2Float;
-        float x = ((Int2Float)xMemory).floatValue;
-        float y = ((Int2Float)yMemory).floatValue;
-		
-        NSLog(@"Status bar down at %f, %f", x, y);
-		[(NSObject <UIApplicationDelegate, MobLibUIApplicationDelegate> *)self.delegate statusBarTouched];
-		
+		[(NSObject <UIApplicationDelegate, MobLibUIApplicationDelegate> *)self.delegate statusBarTouched];		
     }
     else
     {

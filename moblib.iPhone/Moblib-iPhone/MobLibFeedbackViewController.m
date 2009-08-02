@@ -3,7 +3,7 @@
 //  moblib.iPhone
 //
 //  Created by Jesus Fernandez on 8/1/09.
-//  Copyright 2009 __MyCompanyName__. 
+//  Copyright 2009 Jesus Fernandez. 
 //	Permission is hereby granted, free of charge, to any person
 //	obtaining a copy of this software and associated documentation
 //	files (the "Software"), to deal in the Software without
@@ -42,12 +42,26 @@ static MobLibFeedbackViewController *sharedInstance = NULL;
 	return sharedInstance;
 }
 
++ (void)finalize {
+	[sharedInstance release];
+	sharedInstance = NULL;
+}
+
 @synthesize screenshotView;
 @synthesize textView;
 @synthesize cancelButton;
 @synthesize doneButton;
 @synthesize activityView;
 @synthesize presenting;
+
+- (void)dealloc {
+	[screenshotView release];
+	[textView release];
+	[cancelButton release];
+	[doneButton release];
+	[activityView release];
+    [super dealloc];
+}
 
 - (void)present{	
 	if(!self.presenting){
@@ -133,10 +147,6 @@ static MobLibFeedbackViewController *sharedInstance = NULL;
 	// e.g. self.myOutlet = nil;
 }
 
-
-- (void)dealloc {
-    [super dealloc];
-}
 
 
 @end

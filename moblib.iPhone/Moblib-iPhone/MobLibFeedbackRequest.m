@@ -3,7 +3,7 @@
 //  moblib.iPhone
 //
 //  Created by Jesus Fernandez on 8/1/09.
-//  Copyright 2009 __MyCompanyName__. 
+//  Copyright 2009 Jesus Fernandez. 
 //	Permission is hereby granted, free of charge, to any person
 //	obtaining a copy of this software and associated documentation
 //	files (the "Software"), to deal in the Software without
@@ -62,7 +62,10 @@
     [postString appendString:stringBoundarySeparator];
     [postString appendString: [NSString stringWithFormat:@"Content-Disposition: form-data; name=\"description\"\r\n\r\n%@", response]];
     [postString appendString:stringBoundarySeparator];
-    [postString appendString: [NSString stringWithFormat:@"Content-Disposition: form-data; name=\"screenshot\"; filename=\"%@\"\r\n", @"attachment.jpg"]];
+	
+	//create unique name based on random number + time
+	NSString *filename = [NSString stringWithFormat:@"%d.m,l%d.jpg",[NSDate timeIntervalSinceReferenceDate],rand()];
+    [postString appendString: [NSString stringWithFormat:@"Content-Disposition: form-data; name=\"screenshot\"; filename=\"%@\"\r\n", filename]];
     [postString appendString:@"Content-Type: image/jpg\r\n"]; // data as JPEG
     [postString appendString:@"Content-Transfer-Encoding: binary\r\n\r\n"];
 	
@@ -98,6 +101,7 @@
 		}
 	}
 	
+	[self release];
 	
 	[pool release];
 }

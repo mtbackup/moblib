@@ -3,7 +3,7 @@
 //  moblib.iPhone
 //
 //  Created by Jesus Fernandez on 8/1/09.
-//  Copyright 2009 __MyCompanyName__. 
+//  Copyright 2009 Jesus Fernandez. 
 //	Permission is hereby granted, free of charge, to any person
 //	obtaining a copy of this software and associated documentation
 //	files (the "Software"), to deal in the Software without
