@@ -3,16 +3,16 @@
 	1D3623240D0F684500981E51 /* moblib_iPhoneAppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {965, 544}}";
-			sepNavSelRange = "{191, 0}";
+			sepNavSelRange = "{159, 0}";
 			sepNavVisRange = "{0, 525}";
 			sepNavWindowFrame = "{{284, -19}, {787, 1020}}";
 		};
 	};
 	1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {965, 874}}";
-			sepNavSelRange = "{936, 0}";
-			sepNavVisRange = "{305, 733}";
+			sepNavIntBoundsRect = "{{0, 0}, {965, 855}}";
+			sepNavSelRange = "{905, 0}";
+			sepNavVisRange = "{228, 731}";
 			sepNavWindowFrame = "{{15, 6}, {787, 1020}}";
 		};
 	};
@@ -27,6 +27,13 @@
 			sepNavIntBoundsRect = "{{0, 0}, {965, 544}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 193}";
+		};
+	};
+	289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {965, 627}}";
+			sepNavSelRange = "{85, 61}";
+			sepNavVisRange = "{0, 442}";
 		};
 	};
 	289233A40DB2D0840083E9F9 /* MainView.h */ = {
@@ -80,7 +87,7 @@
 		);
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
-				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
@@ -313,6 +320,93 @@
 			A93A79EA10254BB5008ED949 /* PBXTextBookmark */ = A93A79EA10254BB5008ED949 /* PBXTextBookmark */;
 			A93A79EB10254BB5008ED949 /* PBXTextBookmark */ = A93A79EB10254BB5008ED949 /* PBXTextBookmark */;
 			A93A79EC10254BB5008ED949 /* PBXTextBookmark */ = A93A79EC10254BB5008ED949 /* PBXTextBookmark */;
+			A93A79FB1026007E008ED949 /* PBXTextBookmark */ = A93A79FB1026007E008ED949 /* PBXTextBookmark */;
+			A93A79FC1026007E008ED949 /* PBXTextBookmark */ = A93A79FC1026007E008ED949 /* PBXTextBookmark */;
+			A93A79FD1026007E008ED949 /* PBXTextBookmark */ = A93A79FD1026007E008ED949 /* PBXTextBookmark */;
+			A93A79FE1026007E008ED949 /* PBXTextBookmark */ = A93A79FE1026007E008ED949 /* PBXTextBookmark */;
+			A93A79FF1026007E008ED949 /* PBXTextBookmark */ = A93A79FF1026007E008ED949 /* PBXTextBookmark */;
+			A93A7A001026007E008ED949 /* PBXTextBookmark */ = A93A7A001026007E008ED949 /* PBXTextBookmark */;
+			A93A7A011026007E008ED949 /* PBXTextBookmark */ = A93A7A011026007E008ED949 /* PBXTextBookmark */;
+			A93A7A441026105E008ED949 /* PBXTextBookmark */ = A93A7A441026105E008ED949 /* PBXTextBookmark */;
+			A93A7A451026105E008ED949 /* PBXTextBookmark */ = A93A7A451026105E008ED949 /* PBXTextBookmark */;
+			A93A7A461026105E008ED949 /* PBXTextBookmark */ = A93A7A461026105E008ED949 /* PBXTextBookmark */;
+			A93A7A471026105E008ED949 /* PBXTextBookmark */ = A93A7A471026105E008ED949 /* PBXTextBookmark */;
+			A93A7A481026105E008ED949 /* PBXTextBookmark */ = A93A7A481026105E008ED949 /* PBXTextBookmark */;
+			A93A7A491026105E008ED949 /* PBXTextBookmark */ = A93A7A491026105E008ED949 /* PBXTextBookmark */;
+			A93A7A4A1026105E008ED949 /* PBXTextBookmark */ = A93A7A4A1026105E008ED949 /* PBXTextBookmark */;
+			A93A7A4B1026105E008ED949 /* PBXTextBookmark */ = A93A7A4B1026105E008ED949 /* PBXTextBookmark */;
+			A93A7A4C1026105E008ED949 /* PBXTextBookmark */ = A93A7A4C1026105E008ED949 /* PBXTextBookmark */;
+			A93A7A4E1026108D008ED949 /* PBXTextBookmark */ = A93A7A4E1026108D008ED949 /* PBXTextBookmark */;
+			A93A7A4F1026108D008ED949 /* PBXTextBookmark */ = A93A7A4F1026108D008ED949 /* PBXTextBookmark */;
+			A93A7A501026108D008ED949 /* PBXTextBookmark */ = A93A7A501026108D008ED949 /* PBXTextBookmark */;
+			A93A7A511026108D008ED949 /* PBXTextBookmark */ = A93A7A511026108D008ED949 /* PBXTextBookmark */;
+			A93A7A521026108D008ED949 /* PBXTextBookmark */ = A93A7A521026108D008ED949 /* PBXTextBookmark */;
+			A93A7A54102610DB008ED949 /* PBXTextBookmark */ = A93A7A54102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A55102610DB008ED949 /* PBXTextBookmark */ = A93A7A55102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A56102610DB008ED949 /* PBXTextBookmark */ = A93A7A56102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A57102610DB008ED949 /* PBXTextBookmark */ = A93A7A57102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A58102610DB008ED949 /* PBXTextBookmark */ = A93A7A58102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A59102610DB008ED949 /* PBXTextBookmark */ = A93A7A59102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A5A102610DB008ED949 /* PBXTextBookmark */ = A93A7A5A102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A5B102610DB008ED949 /* PBXTextBookmark */ = A93A7A5B102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A5C102610DB008ED949 /* PBXTextBookmark */ = A93A7A5C102610DB008ED949 /* PBXTextBookmark */;
+			A93A7A6810261641008ED949 /* PBXTextBookmark */ = A93A7A6810261641008ED949 /* PBXTextBookmark */;
+			A93A7A6910261641008ED949 /* PBXTextBookmark */ = A93A7A6910261641008ED949 /* PBXTextBookmark */;
+			A93A7A6A10261641008ED949 /* PBXTextBookmark */ = A93A7A6A10261641008ED949 /* PBXTextBookmark */;
+			A93A7A6B10261641008ED949 /* PBXTextBookmark */ = A93A7A6B10261641008ED949 /* PBXTextBookmark */;
+			A93A7A6C10261641008ED949 /* PBXTextBookmark */ = A93A7A6C10261641008ED949 /* PBXTextBookmark */;
+			A93A7A6D10261641008ED949 /* PBXTextBookmark */ = A93A7A6D10261641008ED949 /* PBXTextBookmark */;
+			A93A7A6E10261641008ED949 /* PBXTextBookmark */ = A93A7A6E10261641008ED949 /* PBXTextBookmark */;
+			A93A7A6F10261641008ED949 /* PBXTextBookmark */ = A93A7A6F10261641008ED949 /* PBXTextBookmark */;
+			A93A7A7010261641008ED949 /* PBXTextBookmark */ = A93A7A7010261641008ED949 /* PBXTextBookmark */;
+			A93A7A7210261668008ED949 /* PBXTextBookmark */ = A93A7A7210261668008ED949 /* PBXTextBookmark */;
+			A93A7A7310261668008ED949 /* PBXTextBookmark */ = A93A7A7310261668008ED949 /* PBXTextBookmark */;
+			A93A7A77102616D8008ED949 /* PBXTextBookmark */ = A93A7A77102616D8008ED949 /* PBXTextBookmark */;
+			A93A7A78102616D8008ED949 /* PBXTextBookmark */ = A93A7A78102616D8008ED949 /* PBXTextBookmark */;
+			A93A7A79102616F0008ED949 /* PBXTextBookmark */ = A93A7A79102616F0008ED949 /* PBXTextBookmark */;
+			A93A7A7B10261742008ED949 /* PBXTextBookmark */ = A93A7A7B10261742008ED949 /* PBXTextBookmark */;
+			A93A7A7C10261742008ED949 /* PBXTextBookmark */ = A93A7A7C10261742008ED949 /* PBXTextBookmark */;
+			A93A7A7D10261742008ED949 /* PBXTextBookmark */ = A93A7A7D10261742008ED949 /* PBXTextBookmark */;
+			A93A7A7E10261742008ED949 /* PBXTextBookmark */ = A93A7A7E10261742008ED949 /* PBXTextBookmark */;
+			A93A7A801026177C008ED949 /* PBXTextBookmark */ = A93A7A801026177C008ED949 /* PBXTextBookmark */;
+			A93A7A821026190A008ED949 /* PBXTextBookmark */ = A93A7A821026190A008ED949 /* PBXTextBookmark */;
+			A93A7A831026190A008ED949 /* PBXTextBookmark */ = A93A7A831026190A008ED949 /* PBXTextBookmark */;
+			A93A7A841026190A008ED949 /* PBXTextBookmark */ = A93A7A841026190A008ED949 /* PBXTextBookmark */;
+			A93A7A851026190A008ED949 /* PBXTextBookmark */ = A93A7A851026190A008ED949 /* PBXTextBookmark */;
+			A93A7A861026190A008ED949 /* PBXTextBookmark */ = A93A7A861026190A008ED949 /* PBXTextBookmark */;
+			A93A7A871026190A008ED949 /* PBXTextBookmark */ = A93A7A871026190A008ED949 /* PBXTextBookmark */;
+			A93A7A881026190A008ED949 /* PBXTextBookmark */ = A93A7A881026190A008ED949 /* PBXTextBookmark */;
+			A93A7A891026190A008ED949 /* PBXTextBookmark */ = A93A7A891026190A008ED949 /* PBXTextBookmark */;
+			A93A7A8A1026190A008ED949 /* PBXTextBookmark */ = A93A7A8A1026190A008ED949 /* PBXTextBookmark */;
+			A93A7A8B1026190A008ED949 /* PBXTextBookmark */ = A93A7A8B1026190A008ED949 /* PBXTextBookmark */;
+			A93A7A8C1026190A008ED949 /* PBXTextBookmark */ = A93A7A8C1026190A008ED949 /* PBXTextBookmark */;
+			A93A7A8D1026190A008ED949 /* PBXTextBookmark */ = A93A7A8D1026190A008ED949 /* PBXTextBookmark */;
+			A93A7A8E1026190A008ED949 /* PBXTextBookmark */ = A93A7A8E1026190A008ED949 /* PBXTextBookmark */;
+			A93A7A8F1026190A008ED949 /* PBXTextBookmark */ = A93A7A8F1026190A008ED949 /* PBXTextBookmark */;
+			A93A7A901026190A008ED949 /* PBXTextBookmark */ = A93A7A901026190A008ED949 /* PBXTextBookmark */;
+			A93A7A911026190A008ED949 /* PBXTextBookmark */ = A93A7A911026190A008ED949 /* PBXTextBookmark */;
+			A93A7A921026190A008ED949 /* PBXTextBookmark */ = A93A7A921026190A008ED949 /* PBXTextBookmark */;
+			A93A7A931026190A008ED949 /* PBXTextBookmark */ = A93A7A931026190A008ED949 /* PBXTextBookmark */;
+			A93A7A941026190A008ED949 /* PBXTextBookmark */ = A93A7A941026190A008ED949 /* PBXTextBookmark */;
+			A93A7A951026190A008ED949 /* PBXTextBookmark */ = A93A7A951026190A008ED949 /* PBXTextBookmark */;
+			A93A7A961026190A008ED949 /* PBXTextBookmark */ = A93A7A961026190A008ED949 /* PBXTextBookmark */;
+			A93A7A971026190A008ED949 /* PBXTextBookmark */ = A93A7A971026190A008ED949 /* PBXTextBookmark */;
+			A93A7A9A102619B6008ED949 /* PBXTextBookmark */ = A93A7A9A102619B6008ED949 /* PBXTextBookmark */;
+			A93A7A9B102619B6008ED949 /* PBXTextBookmark */ = A93A7A9B102619B6008ED949 /* PBXTextBookmark */;
+			A93A7A9C102619B6008ED949 /* PBXTextBookmark */ = A93A7A9C102619B6008ED949 /* PBXTextBookmark */;
+			A93A7A9D102619B6008ED949 /* PBXTextBookmark */ = A93A7A9D102619B6008ED949 /* PBXTextBookmark */;
+			A93A7A9E102619B6008ED949 /* PBXTextBookmark */ = A93A7A9E102619B6008ED949 /* PBXTextBookmark */;
+			A93A7A9F102619B6008ED949 /* PBXTextBookmark */ = A93A7A9F102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA0102619B6008ED949 /* PBXTextBookmark */ = A93A7AA0102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA1102619B6008ED949 /* PBXTextBookmark */ = A93A7AA1102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA2102619B6008ED949 /* PBXTextBookmark */ = A93A7AA2102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA3102619B6008ED949 /* PBXTextBookmark */ = A93A7AA3102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA4102619B6008ED949 /* PBXTextBookmark */ = A93A7AA4102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA5102619B6008ED949 /* PBXTextBookmark */ = A93A7AA5102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA6102619B6008ED949 /* PBXTextBookmark */ = A93A7AA6102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA7102619B6008ED949 /* PBXTextBookmark */ = A93A7AA7102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA8102619B6008ED949 /* PBXTextBookmark */ = A93A7AA8102619B6008ED949 /* PBXTextBookmark */;
+			A93A7AA9102619B6008ED949 /* PBXTextBookmark */ = A93A7AA9102619B6008ED949 /* PBXTextBookmark */;
 			A96FF9A31025280F00E9206C = A96FF9A31025280F00E9206C /* PBXTextBookmark */;
 		};
 		sourceControlManager = A91E0F881024EC8A0050CD59 /* Source Control */;
@@ -322,8 +416,15 @@
 	29B97316FDCFA39411CA2CEA /* main.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {965, 544}}";
-			sepNavSelRange = "{395, 0}";
-			sepNavVisRange = "{0, 445}";
+			sepNavSelRange = "{623, 0}";
+			sepNavVisRange = "{0, 626}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 411}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 332}";
 		};
 	};
 	A91E0F7C1024EC870050CD59 /* moblib.iPhone */ = {
@@ -367,31 +468,31 @@
 	};
 	A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {965, 544}}";
-			sepNavSelRange = "{261, 0}";
-			sepNavVisRange = "{0, 381}";
+			sepNavIntBoundsRect = "{{0, 0}, {965, 684}}";
+			sepNavSelRange = "{1213, 0}";
+			sepNavVisRange = "{0, 1281}";
 		};
 	};
 	A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {965, 912}}";
-			sepNavSelRange = "{1283, 0}";
-			sepNavVisRange = "{305, 1044}";
+			sepNavIntBoundsRect = "{{0, 0}, {965, 1216}}";
+			sepNavSelRange = "{92, 1119}";
+			sepNavVisRange = "{0, 1286}";
 			sepNavWindowFrame = "{{15, 3}, {787, 1020}}";
 		};
 	};
 	A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {965, 665}}";
-			sepNavSelRange = "{752, 0}";
-			sepNavVisRange = "{0, 791}";
+			sepNavIntBoundsRect = "{{0, 0}, {965, 1083}}";
+			sepNavSelRange = "{101, 0}";
+			sepNavVisRange = "{3, 1370}";
 		};
 	};
 	A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1236, 2324}}";
-			sepNavSelRange = "{2653, 0}";
-			sepNavVisRange = "{2031, 923}";
+			sepNavIntBoundsRect = "{{0, 0}, {965, 2470}}";
+			sepNavSelRange = "{1221, 0}";
+			sepNavVisRange = "{0, 1298}";
 		};
 	};
 	A91E102B102510350050CD59 /* PBXTextBookmark */ = {
@@ -469,7 +570,7 @@
 		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
 		name = "main.m: 15";
 		rLen = 0;
-		rLoc = 395;
+		rLoc = 506;
 		rType = 0;
 		vrLen = 445;
 		vrLoc = 0;
@@ -479,7 +580,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 808;
+		rLoc = 731;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 197;
@@ -489,7 +590,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 10";
 		rLen = 0;
-		rLoc = 222;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 283;
 		vrLoc = 0;
@@ -499,7 +600,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 50";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 638;
 		vrLoc = 719;
@@ -509,7 +610,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -519,7 +620,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 51";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 1812;
 		rType = 0;
 		vrLen = 363;
 		vrLoc = 1361;
@@ -569,7 +670,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 31";
 		rLen = 0;
-		rLoc = 807;
+		rLoc = 730;
 		rType = 0;
 		vrLen = 836;
 		vrLoc = 52;
@@ -609,7 +710,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 807;
+		rLoc = 730;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 197;
@@ -659,7 +760,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 807;
+		rLoc = 730;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 325;
@@ -709,7 +810,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 21";
 		rLen = 0;
-		rLoc = 474;
+		rLoc = 436;
 		rType = 0;
 		vrLen = 741;
 		vrLoc = 305;
@@ -719,7 +820,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 12";
 		rLen = 0;
-		rLoc = 368;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 0;
@@ -739,7 +840,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 36";
 		rLen = 0;
-		rLoc = 1286;
+		rLoc = 2344;
 		rType = 0;
 		vrLen = 862;
 		vrLoc = 0;
@@ -749,7 +850,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 15";
 		rLen = 0;
-		rLoc = 375;
+		rLoc = 1433;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 0;
@@ -759,7 +860,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 28";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 1775;
 		rType = 0;
 		vrLen = 1058;
 		vrLoc = 188;
@@ -769,7 +870,7 @@
 		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
 		name = "main.m: 15";
 		rLen = 0;
-		rLoc = 395;
+		rLoc = 506;
 		rType = 0;
 		vrLen = 445;
 		vrLoc = 0;
@@ -779,7 +880,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 28";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 1775;
 		rType = 0;
 		vrLen = 1058;
 		vrLoc = 188;
@@ -789,7 +890,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 21";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 436;
 		rType = 0;
 		vrLen = 676;
 		vrLoc = 228;
@@ -799,7 +900,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 825;
 		vrLoc = 528;
@@ -809,7 +910,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 17";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 303;
 		vrLoc = 0;
@@ -819,7 +920,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 451;
@@ -829,7 +930,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 17";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 303;
 		vrLoc = 0;
@@ -839,7 +940,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 451;
@@ -849,7 +950,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 17";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 303;
 		vrLoc = 0;
@@ -859,7 +960,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 15";
 		rLen = 0;
-		rLoc = 375;
+		rLoc = 1433;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 0;
@@ -869,7 +970,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 825;
 		vrLoc = 528;
@@ -879,7 +980,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 15";
 		rLen = 0;
-		rLoc = 375;
+		rLoc = 1433;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 0;
@@ -889,7 +990,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 966;
 		vrLoc = 391;
@@ -899,7 +1000,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 17";
 		rLen = 0;
-		rLoc = 899;
+		rLoc = 2075;
 		rType = 0;
 		vrLen = 317;
 		vrLoc = 0;
@@ -919,7 +1020,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 33";
 		rLen = 0;
-		rLoc = 840;
+		rLoc = 763;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 197;
@@ -929,7 +1030,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 966;
 		vrLoc = 391;
@@ -949,7 +1050,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 808;
+		rLoc = 731;
 		rType = 0;
 		vrLen = 675;
 		vrLoc = 228;
@@ -959,7 +1060,7 @@
 		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
 		name = "main.m: 15";
 		rLen = 0;
-		rLoc = 395;
+		rLoc = 506;
 		rType = 0;
 		vrLen = 445;
 		vrLoc = 0;
@@ -969,7 +1070,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 808;
+		rLoc = 731;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 197;
@@ -989,7 +1090,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 16";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 317;
 		vrLoc = 0;
@@ -999,7 +1100,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 49";
 		rLen = 0;
-		rLoc = 1475;
+		rLoc = 2594;
 		rType = 0;
 		vrLen = 724;
 		vrLoc = 693;
@@ -1009,7 +1110,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 906;
 		vrLoc = 451;
@@ -1019,7 +1120,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 13";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 1592;
 		rType = 0;
 		vrLen = 334;
 		vrLoc = 0;
@@ -1029,7 +1130,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 57";
 		rLen = 0;
-		rLoc = 777;
+		rLoc = 1862;
 		rType = 0;
 		vrLen = 588;
 		vrLoc = 1136;
@@ -1039,7 +1140,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 10";
 		rLen = 0;
-		rLoc = 202;
+		rLoc = 1260;
 		rType = 0;
 		vrLen = 1040;
 		vrLoc = 92;
@@ -1049,7 +1150,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 16";
 		rLen = 0;
-		rLoc = 375;
+		rLoc = 1433;
 		rType = 0;
 		vrLen = 281;
 		vrLoc = 0;
@@ -1059,7 +1160,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 10";
 		rLen = 0;
-		rLoc = 202;
+		rLoc = 1260;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 432;
@@ -1069,7 +1170,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 15";
 		rLen = 0;
-		rLoc = 374;
+		rLoc = 1432;
 		rType = 0;
 		vrLen = 250;
 		vrLoc = 0;
@@ -1079,7 +1180,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 19";
 		rLen = 0;
-		rLoc = 789;
+		rLoc = 1965;
 		rType = 0;
 		vrLen = 403;
 		vrLoc = 0;
@@ -1089,7 +1190,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 365;
 		vrLoc = 1359;
@@ -1099,7 +1200,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 13";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 1383;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -1109,7 +1210,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1119,7 +1220,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 10";
 		rLen = 0;
-		rLoc = 202;
+		rLoc = 1260;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 432;
@@ -1129,7 +1230,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 51";
 		rLen = 0;
-		rLoc = 726;
+		rLoc = 1811;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1139,7 +1240,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 491;
 		vrLoc = 0;
@@ -1149,7 +1250,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 15";
 		rLen = 0;
-		rLoc = 374;
+		rLoc = 1432;
 		rType = 0;
 		vrLen = 250;
 		vrLoc = 0;
@@ -1159,7 +1260,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 41";
 		rLen = 0;
-		rLoc = 1182;
+		rLoc = 2240;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 432;
@@ -1169,7 +1270,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1179,7 +1280,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 17";
 		rLen = 0;
-		rLoc = 514;
+		rLoc = 1621;
 		rType = 0;
 		vrLen = 491;
 		vrLoc = 0;
@@ -1189,7 +1290,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 15";
 		rLen = 0;
-		rLoc = 374;
+		rLoc = 1432;
 		rType = 0;
 		vrLen = 250;
 		vrLoc = 0;
@@ -1199,7 +1300,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 43";
 		rLen = 0;
-		rLoc = 1284;
+		rLoc = 2342;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 432;
@@ -1209,7 +1310,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1219,7 +1320,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 494;
 		vrLoc = 0;
@@ -1229,7 +1330,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1239,7 +1340,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 494;
 		vrLoc = 0;
@@ -1249,7 +1350,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1259,7 +1360,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 502;
 		vrLoc = 0;
@@ -1269,7 +1370,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 372;
 		vrLoc = 1352;
@@ -1279,7 +1380,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 502;
 		vrLoc = 0;
@@ -1289,7 +1390,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 696;
 		vrLoc = 1028;
@@ -1299,7 +1400,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -1309,7 +1410,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 15";
 		rLen = 0;
-		rLoc = 374;
+		rLoc = 1432;
 		rType = 0;
 		vrLen = 250;
 		vrLoc = 0;
@@ -1319,7 +1420,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 11";
 		rLen = 0;
-		rLoc = 228;
+		rLoc = 1286;
 		rType = 0;
 		vrLen = 903;
 		vrLoc = 0;
@@ -1329,7 +1430,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 9";
 		rLen = 0;
-		rLoc = 222;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 0;
@@ -1339,7 +1440,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 11";
 		rLen = 0;
-		rLoc = 228;
+		rLoc = 1286;
 		rType = 0;
 		vrLen = 954;
 		vrLoc = 3;
@@ -1349,7 +1450,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 9";
 		rLen = 0;
-		rLoc = 222;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 249;
 		vrLoc = 0;
@@ -1359,7 +1460,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 42";
 		rLen = 0;
-		rLoc = 1182;
+		rLoc = 2240;
 		rType = 0;
 		vrLen = 849;
 		vrLoc = 0;
@@ -1369,7 +1470,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 10";
 		rLen = 0;
-		rLoc = 222;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 283;
 		vrLoc = 0;
@@ -1379,7 +1480,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 12";
 		rLen = 0;
-		rLoc = 229;
+		rLoc = 1287;
 		rType = 0;
 		vrLen = 980;
 		vrLoc = 47;
@@ -1389,7 +1490,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 54";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 1812;
 		rType = 0;
 		vrLen = 577;
 		vrLoc = 1147;
@@ -1399,7 +1500,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 42";
 		rLen = 0;
-		rLoc = 1182;
+		rLoc = 2240;
 		rType = 0;
 		vrLen = 682;
 		vrLoc = 675;
@@ -1409,7 +1510,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 10";
 		rLen = 0;
-		rLoc = 222;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 283;
 		vrLoc = 0;
@@ -1419,7 +1520,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -1429,7 +1530,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 51";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 1812;
 		rType = 0;
 		vrLen = 363;
 		vrLoc = 1361;
@@ -1439,7 +1540,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 50";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 638;
 		vrLoc = 719;
@@ -1449,7 +1550,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -1459,7 +1560,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 51";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 1812;
 		rType = 0;
 		vrLen = 491;
 		vrLoc = 1233;
@@ -1469,7 +1570,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 51";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 1812;
 		rType = 0;
 		vrLen = 491;
 		vrLoc = 1233;
@@ -1489,7 +1590,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -1499,7 +1600,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 45";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 849;
 		vrLoc = 0;
@@ -1509,7 +1610,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 51";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 1812;
 		rType = 0;
 		vrLen = 491;
 		vrLoc = 1233;
@@ -1519,7 +1620,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 51";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 1812;
 		rType = 0;
 		vrLen = 491;
 		vrLoc = 1233;
@@ -1539,7 +1640,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 18";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -1549,7 +1650,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 45";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 849;
 		vrLoc = 0;
@@ -1559,7 +1660,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 55";
 		rLen = 0;
-		rLoc = 728;
+		rLoc = 1813;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1569,7 +1670,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 72";
 		rLen = 1;
-		rLoc = 1472;
+		rLoc = 2591;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1583,7 +1684,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 72";
 		rLen = 1;
-		rLoc = 1472;
+		rLoc = 2591;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1593,7 +1694,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1005;
 		vrLoc = 336;
@@ -1613,7 +1714,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 36";
 		rLen = 0;
-		rLoc = 938;
+		rLoc = 902;
 		rType = 0;
 		vrLen = 812;
 		vrLoc = 197;
@@ -1623,7 +1724,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 14";
 		rLen = 0;
-		rLoc = 314;
+		rLoc = 1372;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -1633,7 +1734,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 72";
 		rLen = 1;
-		rLoc = 1472;
+		rLoc = 2591;
 		rType = 0;
 		vrLen = 368;
 		vrLoc = 1356;
@@ -1643,7 +1744,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 808;
+		rLoc = 731;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 197;
@@ -1663,7 +1764,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1186;
+		rLoc = 2244;
 		rType = 0;
 		vrLen = 918;
 		vrLoc = 336;
@@ -1683,7 +1784,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 14";
 		rLen = 0;
-		rLoc = 314;
+		rLoc = 1372;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -1693,7 +1794,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1005;
 		vrLoc = 336;
@@ -1703,7 +1804,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 14";
 		rLen = 0;
-		rLoc = 314;
+		rLoc = 1372;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -1713,7 +1814,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1005;
 		vrLoc = 336;
@@ -1733,7 +1834,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 36";
 		rLen = 0;
-		rLoc = 938;
+		rLoc = 902;
 		rType = 0;
 		vrLen = 812;
 		vrLoc = 197;
@@ -1743,7 +1844,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 13";
 		rLen = 0;
-		rLoc = 261;
+		rLoc = 1319;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -1753,7 +1854,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 262;
+		rLoc = 227;
 		rType = 0;
 		vrLen = 1046;
 		vrLoc = 0;
@@ -1763,7 +1864,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 13";
 		rLen = 0;
-		rLoc = 261;
+		rLoc = 1319;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -1773,7 +1874,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 262;
+		rLoc = 227;
 		rType = 0;
 		vrLen = 1046;
 		vrLoc = 0;
@@ -1783,7 +1884,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 13";
 		rLen = 0;
-		rLoc = 261;
+		rLoc = 1319;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -1793,7 +1894,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 305;
@@ -1803,7 +1904,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 17";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 499;
 		vrLoc = 0;
@@ -1813,7 +1914,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 56";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 365;
 		vrLoc = 1359;
@@ -1833,7 +1934,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 13";
 		rLen = 0;
-		rLoc = 261;
+		rLoc = 1319;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -1853,7 +1954,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 72";
 		rLen = 1;
-		rLoc = 1472;
+		rLoc = 2591;
 		rType = 0;
 		vrLen = 365;
 		vrLoc = 1359;
@@ -1863,7 +1964,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 305;
@@ -1873,7 +1974,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 17";
 		rLen = 0;
-		rLoc = 520;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 499;
 		vrLoc = 0;
@@ -1883,7 +1984,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 56";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 365;
 		vrLoc = 1359;
@@ -1903,7 +2004,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 36";
 		rLen = 0;
-		rLoc = 927;
+		rLoc = 891;
 		rType = 0;
 		vrLen = 699;
 		vrLoc = 347;
@@ -1913,7 +2014,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 262;
+		rLoc = 227;
 		rType = 0;
 		vrLen = 1046;
 		vrLoc = 0;
@@ -1923,7 +2024,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 23";
 		rLen = 73;
-		rLoc = 825;
+		rLoc = 2001;
 		rType = 0;
 		vrLen = 537;
 		vrLoc = 0;
@@ -1933,7 +2034,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 27";
 		rLen = 0;
-		rLoc = 726;
+		rLoc = 1811;
 		rType = 0;
 		vrLen = 650;
 		vrLoc = 549;
@@ -1943,7 +2044,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 305;
@@ -1953,7 +2054,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 25";
 		rLen = 0;
-		rLoc = 653;
+		rLoc = 576;
 		rType = 0;
 		vrLen = 699;
 		vrLoc = 347;
@@ -1963,7 +2064,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 25";
 		rLen = 0;
-		rLoc = 653;
+		rLoc = 576;
 		rType = 0;
 		vrLen = 699;
 		vrLoc = 347;
@@ -1973,7 +2074,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 56";
 		rLen = 0;
-		rLoc = 751;
+		rLoc = 1836;
 		rType = 0;
 		vrLen = 927;
 		vrLoc = 101;
@@ -1983,7 +2084,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 23";
 		rLen = 73;
-		rLoc = 825;
+		rLoc = 2001;
 		rType = 0;
 		vrLen = 537;
 		vrLoc = 0;
@@ -1993,7 +2094,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 27";
 		rLen = 0;
-		rLoc = 726;
+		rLoc = 1811;
 		rType = 0;
 		vrLen = 650;
 		vrLoc = 549;
@@ -2003,7 +2104,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 305;
@@ -2013,7 +2114,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 35";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 900;
 		rType = 0;
 		vrLen = 693;
 		vrLoc = 347;
@@ -2023,7 +2124,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 262;
+		rLoc = 227;
 		rType = 0;
 		vrLen = 1046;
 		vrLoc = 0;
@@ -2033,7 +2134,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 13";
 		rLen = 0;
-		rLoc = 261;
+		rLoc = 1319;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -2043,7 +2144,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 305;
@@ -2053,7 +2154,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 26";
 		rLen = 0;
-		rLoc = 752;
+		rLoc = 1928;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -2063,7 +2164,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2073,7 +2174,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 73";
 		rLen = 0;
-		rLoc = 3405;
+		rLoc = 4276;
 		rType = 0;
 		vrLen = 1088;
 		vrLoc = 2731;
@@ -2083,7 +2184,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 35";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 900;
 		rType = 0;
 		vrLen = 733;
 		vrLoc = 305;
@@ -2103,7 +2204,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 28";
 		rLen = 0;
-		rLoc = 685;
+		rLoc = 1770;
 		rType = 0;
 		vrLen = 818;
 		vrLoc = 59;
@@ -2113,7 +2214,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 35";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 900;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 305;
@@ -2123,7 +2224,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 29";
 		rLen = 0;
-		rLoc = 726;
+		rLoc = 1811;
 		rType = 0;
 		vrLen = 869;
 		vrLoc = 379;
@@ -2133,7 +2234,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 13";
 		rLen = 72;
-		rLoc = 262;
+		rLoc = 1321;
 		rType = 0;
 		vrLen = 700;
 		vrLoc = 0;
@@ -2143,7 +2244,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 73";
 		rLen = 0;
-		rLoc = 3752;
+		rLoc = 4623;
 		rType = 0;
 		vrLen = 1235;
 		vrLoc = 2231;
@@ -2153,7 +2254,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 61";
 		rLen = 0;
-		rLoc = 2387;
+		rLoc = 3543;
 		rType = 0;
 		vrLen = 881;
 		vrLoc = 1386;
@@ -2163,7 +2264,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 14";
 		rLen = 0;
-		rLoc = 333;
+		rLoc = 1392;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2173,7 +2274,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 73";
 		rLen = 0;
-		rLoc = 3752;
+		rLoc = 4623;
 		rType = 0;
 		vrLen = 1216;
 		vrLoc = 2231;
@@ -2183,7 +2284,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 35";
 		rLen = 28;
-		rLoc = 1147;
+		rLoc = 2232;
 		rType = 0;
 		vrLen = 770;
 		vrLoc = 3;
@@ -2193,7 +2294,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2203,7 +2304,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 26";
 		rLen = 0;
-		rLoc = 824;
+		rLoc = 2000;
 		rType = 0;
 		vrLen = 704;
 		vrLoc = 0;
@@ -2213,7 +2314,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2223,7 +2324,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 73";
 		rLen = 0;
-		rLoc = 3752;
+		rLoc = 4623;
 		rType = 0;
 		vrLen = 816;
 		vrLoc = 2656;
@@ -2233,7 +2334,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 35";
 		rLen = 28;
-		rLoc = 1147;
+		rLoc = 2232;
 		rType = 0;
 		vrLen = 735;
 		vrLoc = 38;
@@ -2243,7 +2344,7 @@
 		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
 		name = "MobLibUIApplication.h: 13";
 		rLen = 0;
-		rLoc = 261;
+		rLoc = 1319;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
@@ -2253,7 +2354,7 @@
 		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
 		name = "MobLibUIApplication.m: 38";
 		rLen = 0;
-		rLoc = 1283;
+		rLoc = 2341;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 305;
@@ -2263,7 +2364,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 64";
 		rLen = 0;
-		rLoc = 1909;
+		rLoc = 3028;
 		rType = 0;
 		vrLen = 831;
 		vrLoc = 1878;
@@ -2273,7 +2374,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 26";
 		rLen = 0;
-		rLoc = 824;
+		rLoc = 2000;
 		rType = 0;
 		vrLen = 699;
 		vrLoc = 0;
@@ -2283,7 +2384,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2293,7 +2394,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 10";
 		rLen = 1;
-		rLoc = 265;
+		rLoc = 1324;
 		rType = 0;
 		vrLen = 819;
 		vrLoc = 0;
@@ -2303,7 +2404,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2313,7 +2414,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 68";
 		rLen = 0;
-		rLoc = 3380;
+		rLoc = 4251;
 		rType = 0;
 		vrLen = 995;
 		vrLoc = 2537;
@@ -2323,7 +2424,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2333,7 +2434,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 76";
 		rLen = 0;
-		rLoc = 2148;
+		rLoc = 3267;
 		rType = 0;
 		vrLen = 722;
 		vrLoc = 1701;
@@ -2343,7 +2444,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 26";
 		rLen = 0;
-		rLoc = 752;
+		rLoc = 1928;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -2353,7 +2454,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 82";
 		rLen = 30;
-		rLoc = 2131;
+		rLoc = 3250;
 		rType = 0;
 		vrLen = 767;
 		vrLoc = 1837;
@@ -2363,7 +2464,7 @@
 		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
 		name = "MobLibFeedbackViewController.h: 26";
 		rLen = 0;
-		rLoc = 752;
+		rLoc = 1928;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 0;
@@ -2373,7 +2474,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 28";
 		rLen = 0;
-		rLoc = 685;
+		rLoc = 1770;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 56;
@@ -2383,7 +2484,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2393,7 +2494,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 67";
 		rLen = 0;
-		rLoc = 3275;
+		rLoc = 4146;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 1876;
@@ -2403,7 +2504,7 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 28";
 		rLen = 0;
-		rLoc = 685;
+		rLoc = 1770;
 		rType = 0;
 		vrLen = 818;
 		vrLoc = 59;
@@ -2413,7 +2514,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 71";
 		rLen = 107;
-		rLoc = 3302;
+		rLoc = 4173;
 		rType = 0;
 		vrLen = 1350;
 		vrLoc = 2356;
@@ -2423,7 +2524,7 @@
 		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
 		name = "MobLibFeedbackRequest.h: 25";
 		rLen = 0;
-		rLoc = 626;
+		rLoc = 1685;
 		rType = 0;
 		vrLen = 632;
 		vrLoc = 0;
@@ -2433,7 +2534,7 @@
 		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
 		name = "MobLibFeedbackRequest.m: 73";
 		rLen = 0;
-		rLoc = 3405;
+		rLoc = 4276;
 		rType = 0;
 		vrLen = 1088;
 		vrLoc = 2731;
@@ -2443,7 +2544,7 @@
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 35";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 900;
 		rType = 0;
 		vrLen = 733;
 		vrLoc = 305;
@@ -2463,33 +2564,901 @@
 		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
 		name = "MobLibFeedbackViewController.m: 99";
 		rLen = 0;
-		rLoc = 2653;
+		rLoc = 3809;
 		rType = 0;
 		vrLen = 923;
 		vrLoc = 2031;
+	};
+	A93A79FB1026007E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 99";
+		rLen = 0;
+		rLoc = 3809;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 2031;
+	};
+	A93A79FC1026007E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	A93A79FD1026007E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
+		name = "MobLibUIApplication.m: 38";
+		rLen = 0;
+		rLoc = 2341;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 305;
+	};
+	A93A79FE1026007E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 99";
+		rLen = 0;
+		rLoc = 3809;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 2031;
+	};
+	A93A79FF1026007E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	A93A7A001026007E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
+		name = "MobLibUIApplication.m: 38";
+		rLen = 0;
+		rLoc = 2341;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 305;
+	};
+	A93A7A011026007E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
+		name = "moblib_iPhoneAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 698;
+		vrLoc = 348;
+	};
+	A93A7A441026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
+		name = "moblib_iPhoneAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 312;
+	};
+	A93A7A451026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 70";
+		rLen = 0;
+		rLoc = 4276;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 2708;
+	};
+	A93A7A461026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 13";
+		rLen = 0;
+		rLoc = 1319;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	A93A7A471026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 26";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 101;
+	};
+	A93A7A481026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
+		name = "moblib_iPhoneAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 312;
+	};
+	A93A7A491026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 70";
+		rLen = 0;
+		rLoc = 4276;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 2708;
+	};
+	A93A7A4A1026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 13";
+		rLen = 0;
+		rLoc = 1319;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	A93A7A4B1026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 26";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 101;
+	};
+	A93A7A4C1026105E008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 99";
+		rLen = 0;
+		rLoc = 3809;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 1912;
+	};
+	A93A7A4E1026108D008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 28";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 916;
+		vrLoc = 101;
+	};
+	A93A7A4F1026108D008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 99";
+		rLen = 0;
+		rLoc = 3809;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 1913;
+	};
+	A93A7A501026108D008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 99";
+		rLen = 0;
+		rLoc = 3809;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 1912;
+	};
+	A93A7A511026108D008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 28";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 916;
+		vrLoc = 101;
+	};
+	A93A7A521026108D008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 29";
+		rLen = 0;
+		rLoc = 1770;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 755;
+	};
+	A93A7A54102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 70";
+		rLen = 0;
+		rLoc = 4276;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 2708;
+	};
+	A93A7A55102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 28";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 164;
+	};
+	A93A7A56102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 13";
+		rLen = 0;
+		rLoc = 1319;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	A93A7A57102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 29";
+		rLen = 0;
+		rLoc = 1770;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 755;
+	};
+	A93A7A58102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 29";
+		rLen = 0;
+		rLoc = 1770;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 755;
+	};
+	A93A7A59102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 70";
+		rLen = 0;
+		rLoc = 4276;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 2708;
+	};
+	A93A7A5A102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 28";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 164;
+	};
+	A93A7A5B102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 13";
+		rLen = 0;
+		rLoc = 1319;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	A93A7A5C102610DB008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 56";
+		rLen = 0;
+		rLoc = 2482;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 803;
+	};
+	A93A7A6810261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 28";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 164;
+	};
+	A93A7A6910261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 55";
+		rLen = 0;
+		rLoc = 2551;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 953;
+	};
+	A93A7A6A10261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 66";
+		rLen = 0;
+		rLoc = 4001;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 2708;
+	};
+	A93A7A6B10261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	A93A7A6C10261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 56";
+		rLen = 0;
+		rLoc = 2482;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 1884;
+	};
+	A93A7A6D10261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 28";
+		rLen = 0;
+		rLoc = 1928;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 164;
+	};
+	A93A7A6E10261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 55";
+		rLen = 0;
+		rLoc = 2551;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 953;
+	};
+	A93A7A6F10261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 66";
+		rLen = 0;
+		rLoc = 4001;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 2708;
+	};
+	A93A7A7010261641008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+	A93A7A7210261668008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+	A93A7A7310261668008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	A93A7A77102616D8008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	A93A7A78102616D8008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	A93A7A79102616F0008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	A93A7A7B10261742008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	A93A7A7C10261742008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Command /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1";
+		fRef = 32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	A93A7A7D10261742008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 21";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	A93A7A7E10261742008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */;
+		name = "moblib_iPhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	A93A7A801026177C008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */;
+		name = "moblib_iPhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	A93A7A821026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 6";
+		rLen = 2;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	A93A7A831026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */;
+		name = "FlipsideView.m: 6";
+		rLen = 61;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	A93A7A841026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 25";
+		rLen = 0;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 626;
+		vrLoc = 0;
+	};
+	A93A7A851026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	A93A7A861026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* moblib_iPhoneAppDelegate.h */;
+		name = "moblib_iPhoneAppDelegate.h: 8";
+		rLen = 0;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	A93A7A871026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */;
+		name = "moblib_iPhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	A93A7A881026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
+		name = "moblib_iPhoneAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 905;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 228;
+	};
+	A93A7A891026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
+		name = "MobLibUIApplication.m: 38";
+		rLen = 0;
+		rLoc = 2341;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 305;
+	};
+	A93A7A8A1026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */;
+		name = "moblib_iPhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	A93A7A8B1026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
+		name = "moblib_iPhoneAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 312;
+	};
+	A93A7A8C1026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 427;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 0;
+	};
+	A93A7A8D1026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 6";
+		rLen = 2;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	A93A7A8E1026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 77;
+		rType = 0;
+		vrLen = 585;
+		vrLoc = 0;
+	};
+	A93A7A8F1026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */;
+		name = "moblib_iPhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	A93A7A901026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
+		name = "moblib_iPhoneAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 312;
+	};
+	A93A7A911026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */;
+		name = "FlipsideView.m: 6";
+		rLen = 61;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	A93A7A921026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 25";
+		rLen = 0;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 626;
+		vrLoc = 0;
+	};
+	A93A7A931026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	A93A7A941026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* moblib_iPhoneAppDelegate.h */;
+		name = "moblib_iPhoneAppDelegate.h: 8";
+		rLen = 0;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	A93A7A951026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* moblib_iPhone_Prefix.pch */;
+		name = "moblib_iPhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	A93A7A961026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
+		name = "moblib_iPhoneAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 905;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 228;
+	};
+	A93A7A971026190A008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
+		name = "MobLibUIApplication.m: 38";
+		rLen = 0;
+		rLoc = 2341;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 0;
+	};
+	A93A7A9A102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
+		name = "MobLibUIApplication.m: 6";
+		rLen = 1119;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 1286;
+		vrLoc = 0;
+	};
+	A93A7A9B102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 28";
+		rLen = 0;
+		rLoc = 1213;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 0;
+	};
+	A93A7A9C102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 6";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 1370;
+		vrLoc = 3;
+	};
+	A93A7A9D102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
+		name = "MobLibFeedbackRequest.h: 27";
+		rLen = 0;
+		rLoc = 1214;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 0;
+	};
+	A93A7A9E102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 6";
+		rLen = 0;
+		rLoc = 127;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 0;
+	};
+	A93A7A9F102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 27";
+		rLen = 0;
+		rLoc = 1221;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 0;
+	};
+	A93A7AA0102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
+		name = "MobLibUIApplication.m: 7";
+		rLen = 1080;
+		rLoc = 131;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 0;
+	};
+	A93A7AA1102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 26";
+		rLen = 0;
+		rLoc = 130;
+		rType = 0;
+		vrLen = 1301;
+		vrLoc = 0;
+	};
+	A93A7AA2102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */;
+		name = "MobLibUIApplication.m: 6";
+		rLen = 1119;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 1286;
+		vrLoc = 0;
+	};
+	A93A7AA3102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */;
+		name = "MobLibUIApplication.h: 28";
+		rLen = 0;
+		rLoc = 1213;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 0;
+	};
+	A93A7AA4102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 27";
+		rLen = 0;
+		rLoc = 1221;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 0;
+	};
+	A93A7AA5102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */;
+		name = "MobLibFeedbackViewController.h: 6";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 1370;
+		vrLoc = 3;
+	};
+	A93A7AA6102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 27";
+		rLen = 0;
+		rLoc = 1214;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 0;
+	};
+	A93A7AA7102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */;
+		name = "MobLibFeedbackRequest.h: 27";
+		rLen = 0;
+		rLoc = 1214;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 0;
+	};
+	A93A7AA8102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */;
+		name = "MobLibFeedbackRequest.m: 6";
+		rLen = 0;
+		rLoc = 127;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 0;
+	};
+	A93A7AA9102619B6008ED949 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */;
+		name = "MobLibFeedbackViewController.m: 27";
+		rLen = 0;
+		rLoc = 1221;
+		rType = 0;
+		vrLen = 1298;
+		vrLoc = 0;
 	};
 	A96FF9A31025280F00E9206C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* moblib_iPhoneAppDelegate.m */;
 		name = "moblib_iPhoneAppDelegate.m: 35";
 		rLen = 0;
-		rLoc = 936;
+		rLoc = 900;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 346;
 	};
 	A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {965, 544}}";
-			sepNavSelRange = "{626, 0}";
-			sepNavVisRange = "{0, 632}";
+			sepNavIntBoundsRect = "{{0, 0}, {965, 893}}";
+			sepNavSelRange = "{1214, 0}";
+			sepNavVisRange = "{0, 1250}";
 		};
 	};
 	A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1316, 1721}}";
-			sepNavSelRange = "{3405, 0}";
-			sepNavVisRange = "{2731, 1086}";
+			sepNavIntBoundsRect = "{{0, 0}, {965, 2071}}";
+			sepNavSelRange = "{127, 0}";
+			sepNavVisRange = "{0, 1306}";
 		};
 	};
 }

@@ -228,6 +228,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -276,13 +278,13 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>6</integer>
+									<integer>5</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 10}, {186, 759}}</string>
+							<string>{{0, 0}, {186, 759}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -301,7 +303,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>107 210 1234 818 0 0 1680 1028 </string>
+						<string>134 210 1234 818 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -312,8 +314,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -331,24 +331,26 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A93A79EC10254BB5008ED949</string>
+										<string>A93A7AA9102619B6008ED949</string>
 										<key>history</key>
 										<array>
 											<string>A91E102B102510350050CD59</string>
 											<string>A91E102C102510350050CD59</string>
 											<string>A91E102E102510350050CD59</string>
 											<string>A91E1030102510350050CD59</string>
-											<string>A91E1032102510350050CD59</string>
-											<string>A91E10A9102512F80050CD59</string>
-											<string>A91E10E610251B480050CD59</string>
-											<string>A93A79C110254BB5008ED949</string>
-											<string>A93A79C210254BB5008ED949</string>
-											<string>A93A79C310254BB5008ED949</string>
-											<string>A93A79C410254BB5008ED949</string>
-											<string>A93A79C510254BB5008ED949</string>
-											<string>A93A79C610254BB5008ED949</string>
 											<string>A93A79C710254BB5008ED949</string>
-											<string>A93A79C810254BB5008ED949</string>
+											<string>A93A7A831026190A008ED949</string>
+											<string>A93A7A841026190A008ED949</string>
+											<string>A93A7A851026190A008ED949</string>
+											<string>A93A7A861026190A008ED949</string>
+											<string>A93A7A871026190A008ED949</string>
+											<string>A93A7A881026190A008ED949</string>
+											<string>A93A7A9A102619B6008ED949</string>
+											<string>A93A7A9B102619B6008ED949</string>
+											<string>A93A7A9C102619B6008ED949</string>
+											<string>A93A7A9D102619B6008ED949</string>
+											<string>A93A7A9E102619B6008ED949</string>
+											<string>A93A7A9F102619B6008ED949</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -400,6 +402,46 @@
 											<string>A93A79E910254BB5008ED949</string>
 											<string>A93A79EA10254BB5008ED949</string>
 											<string>A93A79EB10254BB5008ED949</string>
+											<string>A93A79FE1026007E008ED949</string>
+											<string>A93A79FF1026007E008ED949</string>
+											<string>A93A7A001026007E008ED949</string>
+											<string>A93A7A481026105E008ED949</string>
+											<string>A93A7A491026105E008ED949</string>
+											<string>A93A7A4A1026105E008ED949</string>
+											<string>A93A7A4B1026105E008ED949</string>
+											<string>A93A7A501026108D008ED949</string>
+											<string>A93A7A511026108D008ED949</string>
+											<string>A93A7A58102610DB008ED949</string>
+											<string>A93A7A59102610DB008ED949</string>
+											<string>A93A7A5A102610DB008ED949</string>
+											<string>A93A7A5B102610DB008ED949</string>
+											<string>A93A7A6C10261641008ED949</string>
+											<string>A93A7A6D10261641008ED949</string>
+											<string>A93A7A6E10261641008ED949</string>
+											<string>A93A7A6F10261641008ED949</string>
+											<string>A93A7A7D10261742008ED949</string>
+											<string>A93A7A8A1026190A008ED949</string>
+											<string>A93A7A8B1026190A008ED949</string>
+											<string>A93A7A8C1026190A008ED949</string>
+											<string>A93A7A8D1026190A008ED949</string>
+											<string>A93A7A8E1026190A008ED949</string>
+											<string>A93A7A8F1026190A008ED949</string>
+											<string>A93A7A901026190A008ED949</string>
+											<string>A93A7A911026190A008ED949</string>
+											<string>A93A7A921026190A008ED949</string>
+											<string>A93A7A931026190A008ED949</string>
+											<string>A93A7A941026190A008ED949</string>
+											<string>A93A7A951026190A008ED949</string>
+											<string>A93A7A961026190A008ED949</string>
+											<string>A93A7AA0102619B6008ED949</string>
+											<string>A93A7AA1102619B6008ED949</string>
+											<string>A93A7AA2102619B6008ED949</string>
+											<string>A93A7AA3102619B6008ED949</string>
+											<string>A93A7AA4102619B6008ED949</string>
+											<string>A93A7AA5102619B6008ED949</string>
+											<string>A93A7AA6102619B6008ED949</string>
+											<string>A93A7AA7102619B6008ED949</string>
+											<string>A93A7AA8102619B6008ED949</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -413,7 +455,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1026, 599}}</string>
 								<key>RubberWindowFrame</key>
-								<string>107 210 1234 818 0 0 1680 1028 </string>
+								<string>134 210 1234 818 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -433,7 +475,7 @@
 								<key>Frame</key>
 								<string>{{0, 604}, {1026, 173}}</string>
 								<key>RubberWindowFrame</key>
-								<string>107 210 1234 818 0 0 1680 1028 </string>
+								<string>134 210 1234 818 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -595,13 +637,13 @@
 	<array>
 		<string>A93A79F710254BB5008ED949</string>
 		<string>A93A79F810254BB5008ED949</string>
-		<string>A91E1096102510350050CD59</string>
 		<string>1CD10A99069EF8BA00B06720</string>
+		<string>A91E1096102510350050CD59</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/jf/Workspace/moblib/moblib.iPhone/moblib.iPhone.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>107 210 1234 818 0 0 1680 1028 </string>
+	<string>134 210 1234 818 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -617,12 +659,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>moblib_iPhone_Prefix.pch</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -689,7 +733,7 @@
 			<key>WindowToolGUID</key>
 			<string>A91E1096102510350050CD59</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -813,7 +857,7 @@
 			<key>WindowToolGUID</key>
 			<string>1CD10A99069EF8BA00B06720</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>
@@ -945,7 +989,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {909, 443}}</string>
 								<key>RubberWindowFrame</key>
-								<string>65 510 909 484 0 0 1680 1028 </string>
+								<string>64 510 909 484 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugCLIModule</string>
@@ -974,7 +1018,7 @@
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.consoleV3</string>
 			<key>WindowString</key>
-			<string>65 510 909 484 0 0 1680 1028 </string>
+			<string>64 510 909 484 0 0 1680 1028 </string>
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>

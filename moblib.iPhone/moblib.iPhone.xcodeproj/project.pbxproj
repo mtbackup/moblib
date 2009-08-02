@@ -169,11 +169,11 @@
 				A96FF9AD1025281D00E9206C /* img */,
 				A91E0FD91024FE490050CD59 /* MobLibUIApplication.m */,
 				A91E0FD81024FE490050CD59 /* MobLibUIApplication.h */,
-				A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */,
 				A91E0FE8102501E00050CD59 /* MobLibFeedbackViewController.m */,
+				A91E0FE7102501E00050CD59 /* MobLibFeedbackViewController.h */,
 				A91E0FE9102501E00050CD59 /* MobLibFeedbackViewController.xib */,
-				A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */,
 				A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */,
+				A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */,
 			);
 			path = "Moblib-iPhone";
 			sourceTree = "<group>";
@@ -300,6 +300,7 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DDEBUG=1";
 				PREBINDING = NO;
 				SDKROOT = iphoneos3.0;
 			};

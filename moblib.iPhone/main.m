@@ -11,8 +11,16 @@
 int main(int argc, char *argv[]) {
     
     NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
-    //int retVal = UIApplicationMain(argc, argv, nil, nil);
+	
+	//Use custom MobLibUIApplication class to capture status bar events in
+	//the adhoc appliation. Use conditionals to use UIApplication in
+	//release builds
+#ifdef DEBUG
 	int retVal = UIApplicationMain(argc, argv, @"MobLibUIApplication", nil);
+#else
+	int retVal = UIApplicationMain(argc, argv, nil, nil);
+#endif
+	
     [pool release];
     return retVal;
 }
