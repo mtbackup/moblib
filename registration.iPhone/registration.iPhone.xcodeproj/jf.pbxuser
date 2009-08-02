@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* registration_iPhoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 817}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 694}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* registration.iPhone */ = {
+		activeExec = 0;
+		executables = (
+			A93A7A0A10260289008ED949 /* registration.iPhone */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {563, 578}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 3154}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 630}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A93A7A0A10260289008ED949 /* registration.iPhone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* registration.iPhone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* registration.iPhone */,
+		);
+		codeSenseManager = A93A7A18102602A6008ED949 /* Code sense */;
+		executables = (
+			A93A7A0A10260289008ED949 /* registration.iPhone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					385,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 270926474;
+			PBXWorkspaceStateSaveDate = 270926474;
+		};
+		sourceControlManager = A93A7A17102602A6008ED949 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A93A7A0A10260289008ED949 /* registration.iPhone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = registration.iPhone;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	A93A7A17102602A6008ED949 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	A93A7A18102602A6008ED949 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A93A7A1F10260399008ED949 /* DeviceViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {563, 578}}";
+			sepNavSelRange = "{284, 1}";
+			sepNavVisRange = "{0, 291}";
+		};
+	};
+	A93A7A2010260399008ED949 /* DeviceViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1220, 3420}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{161, 321}";
+		};
+	};
+}
