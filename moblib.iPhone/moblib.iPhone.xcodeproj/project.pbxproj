@@ -24,6 +24,7 @@
 		A91E0FEB102501E00050CD59 /* MobLibFeedbackViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A91E0FE9102501E00050CD59 /* MobLibFeedbackViewController.xib */; };
 		A91E101610250CD10050CD59 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A91E101510250CD10050CD59 /* QuartzCore.framework */; };
 		A91E10F610251BF60050CD59 /* richred1-tm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A91E10F510251BF60050CD59 /* richred1-tm.jpg */; };
+		A93A7AE710262BA0008ED949 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A93A7AE610262BA0008ED949 /* Icon.png */; };
 		A96FF9AF1025281D00E9206C /* FeedbackViewController.bg.png in Resources */ = {isa = PBXBuildFile; fileRef = A96FF9AE1025281D00E9206C /* FeedbackViewController.bg.png */; };
 		A96FF9B810252D8900E9206C /* MobLibFeedbackRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */; };
 /* End PBXBuildFile section */
@@ -56,6 +57,7 @@
 		A91E0FE9102501E00050CD59 /* MobLibFeedbackViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MobLibFeedbackViewController.xib; sourceTree = "<group>"; };
 		A91E101510250CD10050CD59 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		A91E10F510251BF60050CD59 /* richred1-tm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "richred1-tm.jpg"; sourceTree = "<group>"; };
+		A93A7AE610262BA0008ED949 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		A96FF9AE1025281D00E9206C /* FeedbackViewController.bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FeedbackViewController.bg.png; sourceTree = "<group>"; };
 		A96FF9B610252D8900E9206C /* MobLibFeedbackRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobLibFeedbackRequest.h; sourceTree = "<group>"; };
 		A96FF9B710252D8900E9206C /* MobLibFeedbackRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobLibFeedbackRequest.m; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A93A7AE610262BA0008ED949 /* Icon.png */,
 				A91E10F510251BF60050CD59 /* richred1-tm.jpg */,
 				280E754A0DD40C5E005A515E /* FlipsideView.xib */,
 				280E754B0DD40C5E005A515E /* MainView.xib */,
@@ -241,6 +244,7 @@
 				A91E0FEB102501E00050CD59 /* MobLibFeedbackViewController.xib in Resources */,
 				A91E10F610251BF60050CD59 /* richred1-tm.jpg in Resources */,
 				A96FF9AF1025281D00E9206C /* FeedbackViewController.bg.png in Resources */,
+				A93A7AE710262BA0008ED949 /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

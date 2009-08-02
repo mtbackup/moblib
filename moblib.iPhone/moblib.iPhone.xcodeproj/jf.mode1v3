@@ -276,8 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>8</integer>
-									<integer>1</integer>
+									<integer>32</integer>
+									<integer>26</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -301,7 +301,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>353 210 1234 818 0 0 1680 1028 </string>
+						<string>191 167 1234 818 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -312,14 +312,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MobLibFeedbackRequest.m</string>
+								<string>moblib_iPhone-Info.plist</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,11 +325,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MobLibFeedbackRequest.m</string>
+										<string>moblib_iPhone-Info.plist</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A93A7AE4102626A8008ED949</string>
+										<string>A93A7AF710262CD0008ED949</string>
 										<key>history</key>
 										<array>
 											<string>A91E102B102510350050CD59</string>
@@ -346,12 +344,12 @@
 											<string>A93A7A871026190A008ED949</string>
 											<string>A93A7AAD10261B29008ED949</string>
 											<string>A93A7AAE10261B29008ED949</string>
-											<string>A93A7ABC10261F2C008ED949</string>
 											<string>A93A7ABD10261F2C008ED949</string>
 											<string>A93A7ABE10261F2C008ED949</string>
 											<string>A93A7AD710262537008ED949</string>
 											<string>A93A7AD810262537008ED949</string>
-											<string>A93A7AE3102626A8008ED949</string>
+											<string>A93A7AF510262CD0008ED949</string>
+											<string>A93A7ABC10261F2C008ED949</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -463,6 +461,7 @@
 											<string>A93A7ADC10262537008ED949</string>
 											<string>A93A7ADD10262537008ED949</string>
 											<string>A93A7ADE10262537008ED949</string>
+											<string>A93A7AF610262CD0008ED949</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -476,7 +475,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1026, 599}}</string>
 								<key>RubberWindowFrame</key>
-								<string>353 210 1234 818 0 0 1680 1028 </string>
+								<string>191 167 1234 818 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -496,7 +495,7 @@
 								<key>Frame</key>
 								<string>{{0, 604}, {1026, 173}}</string>
 								<key>RubberWindowFrame</key>
-								<string>353 210 1234 818 0 0 1680 1028 </string>
+								<string>191 167 1234 818 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -656,7 +655,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>A93A7AE5102626A8008ED949</string>
 		<string>1C530D57069F1CE1000CFCEE</string>
 		<string>A93A79F710254BB5008ED949</string>
 		<string>A93A79F810254BB5008ED949</string>
@@ -666,7 +664,7 @@
 		<string>/Users/jf/Workspace/moblib/moblib.iPhone/moblib.iPhone.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>353 210 1234 818 0 0 1680 1028 </string>
+	<string>191 167 1234 818 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
